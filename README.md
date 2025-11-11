@@ -8,10 +8,7 @@
 </div>
 
 
-### 📈 Estatísticas do GitHub
+### 📊 Linguagens mais usadas
 <div align="center">
-  <a href="https://github.com/JulioCesarLinss">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarLinss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarLinss&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarLinss&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
