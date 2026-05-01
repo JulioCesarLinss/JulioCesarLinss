@@ -1,15 +1,40 @@
-## 👨‍💻 Sobre
+# Hello, my name is Júlio César! 👨‍💻
 
-Projetos acadêmicos voltados ao desenvolvimento backend.
+I'm a **Computer Science** student (currently in my 5th semester). I am dedicated to academic projects and software development, with a strong interest in the field of **Artificial Intelligence**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Skills & Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,html,css" /> |
+| **Hardware** | <img src="https://skillicons.dev/icons?i=arduino" /> |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma" /> |
+| **IDEs/Tools** | <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" /> |
+
 </div>
+
+---
+
+## 📊 Analytics & Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarLinss&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarLinss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
+
+---
+
+## 📩 Contact Me
+
+<p align="center">
+  <a href="mailto:juliocbizarria@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/julio-lins/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</p>
